@@ -1,3 +1,3 @@
-### AirBnB clone
+## AirBnB clone
 
-## Web Static
+### Web Static
