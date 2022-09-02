@@ -1,7 +1,1 @@
-## AirBnB clone
-
-### Web Static
-
-# AUTHORS
-
-# Chukwuemeka Samuel
+this is bas's readme
