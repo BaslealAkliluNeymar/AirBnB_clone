@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for the entry point of the command interpreter."""
+"""Module for the command interpreter,Using the CMD module in python"""
 
 import cmd
 from models.base_model import BaseModel
